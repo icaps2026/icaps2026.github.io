@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: ICAPS 2025
+name: ICAPS 2026
 
 on:
   # Runs on pushes targeting the default branch
