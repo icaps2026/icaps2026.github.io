@@ -1,6 +1,5 @@
 ---
-title: "Planning in the Era of LLMs (LM4Plan @ ICAPS 2025)"
-date: 2025-04-25T00:00+00:00
+title: "Planning in the Era of LLMs (LM4Plan @ ICAPS 2026)"
 draft: false
 ---
 
