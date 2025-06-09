@@ -41,4 +41,4 @@ to:
 - Studies of applying automated planning and scheduling technologies to significant problems with deep technical insight. -->
 
 
-{{< sponsors_table_json "data/sponsors/sponsors.json" >}}
+{{< sponsors_table_json "sponsors/sponsors.json" >}}

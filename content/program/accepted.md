@@ -7,7 +7,7 @@ draft: false
 # List of Papers Accepted to ICAPS 2025
 
 
-{{< accepted_table_json "data/accepted/accepted.json" >}}
+{{< accepted_table_json "accepted/accepted.json" >}}
 
 
 

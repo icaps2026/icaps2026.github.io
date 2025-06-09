@@ -7,7 +7,7 @@ draft: false
 # ICAPS 2025 Keynotes
 
 
-{{< keynotes_table_json "data/keynotes/keynotes.json" >}}
+{{< keynotes_table_json "keynotes/keynotes.json" >}}
 
 
 
