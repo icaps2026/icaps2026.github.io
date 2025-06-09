@@ -1,6 +1,5 @@
-#baseURL = 'https://icaps25.icaps-conference.org'
-baseURL = 'https://icaps25.github.io/'
-title = 'ICAPS 2025'
+baseURL = 'https://icaps26.github.io/'
+title = 'ICAPS 2026'
 theme = 'mainroad'
 
 [languages.en]
@@ -9,9 +8,9 @@ languageCode = 'en_AU'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
-  title = "The 35th International Conference" # Logo title, otherwise will use site title
+  title = "The 36th International Conference" # Logo title, otherwise will use site title
   title2 = "on Automated Planning and Scheduling"
-  subtitle = "Melbourne, Victoria, Australia, \nNovember 9-14, 2025" # Logo subtitle
+  subtitle = "Dublin, Ireland, \n June 2026" # Logo subtitle
 
 [Params.style.vars]
      highlightColor = "#f5821f"
