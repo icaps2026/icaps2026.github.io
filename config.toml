@@ -1,10 +1,11 @@
-baseURL = 'https://icaps26.github.io/'
+baseURL = 'https://icaps26.icaps-conference.org/'
+#baseURL = 'https://icaps26.github.io/'
 title = 'ICAPS 2026'
 theme = 'mainroad'
 
 [languages.en]
 contentDir = 'content'
-languageCode = 'en_AU'
+languageCode = 'en_US'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
