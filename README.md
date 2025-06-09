@@ -1,10 +1,10 @@
 # icaps2026.github.io
 
-Website for the ICAPS 2026 conference held in Dublin, Ireland - June XX-XX, 2026.
+Website for the ICAPS 2026 conference held in Dublin, Ireland - June 2026.
 
 This site is published automatically via a GH Action workflow to the following default GH-pages:
 
-<https://icaps26.github.io/>
+<https://icaps2026.github.io/>
 
 If you want information on how to setup and deploy a new web-page for future ICAPS, please refer to file [DEPLOYMENT.md](DEPLOYMENT.md) is useful for those setting up a new webpage for future ICAPS iterations.
 

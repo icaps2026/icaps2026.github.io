@@ -6,4 +6,4 @@ draft: false
 # Conference Organisers
 
 
-{{< committee_table_json "/data/organisation/conference_chairs.json" >}}
+{{< committee_table_json "data/organisation/conference_chairs.json" >}}
