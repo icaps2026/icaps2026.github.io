@@ -77,22 +77,22 @@ languageCode = 'en_AU'
 #    parent = "students"
 #    weight = 200
 # ATTENDING
-  [[menu.main]]
-    identifier = "attending"
-    name = "Attending"
-    weight = 3000
-  [[menu.main]]
-    identifier = "venue"
-    name = "Venue"
-    url = "/attending/venue"
-    parent = "attending"
-    weight = 10
-  [[menu.main]]
-    identifier = "visa"
-    name = "Visa"
-    url = "/attending/visa"
-    parent = "attending"
-    weight = 10
+  # [[menu.main]]
+  #   identifier = "attending"
+  #   name = "Attending"
+  #   weight = 3000
+  # [[menu.main]]
+  #   identifier = "venue"
+  #   name = "Venue"
+  #   url = "/attending/venue"
+  #   parent = "attending"
+  #   weight = 10
+  # [[menu.main]]
+  #   identifier = "visa"
+  #   name = "Visa"
+  #   url = "/attending/visa"
+  #   parent = "attending"
+  #   weight = 10
 #  [[menu.main]]
 #    identifier = "visit_vic"
 #    name = "Discover Victoria"
@@ -111,24 +111,24 @@ languageCode = 'en_AU'
 #    url = "/attending/travel"
 #    parent = "attending"
 #    weight = 20
-  [[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    url = "/attending/registration"
-    parent = "attending"
-    weight = "30"
+  # [[menu.main]]
+  #   identifier = "registration"
+  #   name = "Registration"
+  #   url = "/attending/registration"
+  #   parent = "attending"
+  #   weight = "30"
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
 #    url = "/attending/info"
 #    parent = "attending"
 #    weight = "40"
-[[menu.main]]
-  identifier = "accommodation"
-  name = "Accommodation"
-  url = "/attending/accommodation"
-  parent = "attending"
-  weight = "40"
+# [[menu.main]]
+#   identifier = "accommodation"
+#   name = "Accommodation"
+#   url = "/attending/accommodation"
+#   parent = "attending"
+#   weight = "40"
 #  [[menu.main]]
 #    identifier = "student-support"
 #    name = "Student Support"
@@ -136,22 +136,22 @@ languageCode = 'en_AU'
 #    parent = "attending"
 #    weight = "50"
 # CALLS
-[[menu.main]]
-  identifier = "calls"
-  name = "Calls"
-  weight = 4000
-[[menu.main]]
-  identifier = "main_track"
-  name = "Main Track"
-  url = "/calls/main_track"
-  parent = "calls"
-  weight = 10
-[[menu.main]]
-  identifier = "tools_papers_call"
-  name = "Tools Papers"
-  url = "/calls/tools_papers_call"
-  parent="calls"
-  weight = 10
+# [[menu.main]]
+#   identifier = "calls"
+#   name = "Calls"
+#   weight = 4000
+# [[menu.main]]
+#   identifier = "main_track"
+#   name = "Main Track"
+#   url = "/calls/main_track"
+#   parent = "calls"
+#   weight = 10
+# [[menu.main]]
+#   identifier = "tools_papers_call"
+#   name = "Tools Papers"
+#   url = "/calls/tools_papers_call"
+#   parent="calls"
+#   weight = 10
 #  [[menu.main]]
 #    identifier = "application_track"
 #    name = "Application Track"
@@ -170,54 +170,54 @@ languageCode = 'en_AU'
 #    url = "/calls/robotics_track"
 #    parent = "calls"
 #    weight = 40
-[[menu.main]]
-  identifier = "previously_published_papers"
-  name = "Previously Published Papers Track"
-  url = "/calls/previously_published_papers"
-  parent = "calls"
-  weight = 45
-[[menu.main]]
-  identifier = "workshop_call"
-  name = "Call for Workshop Proposals"
-  url = "/calls/workshop_call"
-  parent = "calls"
-  weight = 50
-[[menu.main]]
-  identifier = "tutorial_call"
-  name = "Call for Tutorial Proposals"
-  url = "/calls/tutorial_call"
-  parent = "calls"
-  weight = 50
-[[menu.main]]
-  identifier = "demos_call"
-  name = "Call for System Demonstrations"
-  url = "/calls/demos"
-  parent = "calls"
-  weight = 70
-[[menu.main]]
- identifier = "dc_call"
- name = "Call for Doctoral Consortium"
- url = "/calls/dc"
- parent = "calls"
- weight = 80
-[[menu.main]]
- identifier = "lp_call"
- name = "Call for LaunchPad Workshop"
- url = "/calls/lp_call"
- parent = "calls"
- weight = 80
+# [[menu.main]]
+#   identifier = "previously_published_papers"
+#   name = "Previously Published Papers Track"
+#   url = "/calls/previously_published_papers"
+#   parent = "calls"
+#   weight = 45
+# [[menu.main]]
+#   identifier = "workshop_call"
+#   name = "Call for Workshop Proposals"
+#   url = "/calls/workshop_call"
+#   parent = "calls"
+#   weight = 50
+# [[menu.main]]
+#   identifier = "tutorial_call"
+#   name = "Call for Tutorial Proposals"
+#   url = "/calls/tutorial_call"
+#   parent = "calls"
+#   weight = 50
+# [[menu.main]]
+#   identifier = "demos_call"
+#   name = "Call for System Demonstrations"
+#   url = "/calls/demos"
+#   parent = "calls"
+#   weight = 70
+# [[menu.main]]
+#  identifier = "dc_call"
+#  name = "Call for Doctoral Consortium"
+#  url = "/calls/dc"
+#  parent = "calls"
+#  weight = 80
+# [[menu.main]]
+#  identifier = "lp_call"
+#  name = "Call for LaunchPad Workshop"
+#  url = "/calls/lp_call"
+#  parent = "calls"
+#  weight = 80
 # [[menu.main]]
 #   identifier = "ss_call"
 #   name = "Call for Summer School"
 #   url = "/summerschool"
 #   parent = "calls"
 #   weight = 90
-[[menu.main]]
-  identifier = "partnership_call"
-  name = "Call for Partnership"
-  url = "/calls/partnership_call"
-  parent = "calls"
-  weight = 90
+# [[menu.main]]
+#   identifier = "partnership_call"
+#   name = "Call for Partnership"
+#   url = "/calls/partnership_call"
+#   parent = "calls"
+#   weight = 90
 ## COMPETITIONS
 #  [[menu.main]]
 #    identifier = "competitions"
@@ -247,12 +247,12 @@ languageCode = 'en_AU'
 #   url = "/program/schedule"
 #   parent = "program"
 #   weight = 13
-[[menu.main]]
-  identifier = "accepted-papers"
-  name = "Accepted Papers"
-  url = "/program/accepted"
-  parent = "program"
-  weight = "15"
+# [[menu.main]]
+#   identifier = "accepted-papers"
+#   name = "Accepted Papers"
+#   url = "/program/accepted"
+#   parent = "program"
+#   weight = "15"
 # [[menu.main]]
 #   identifier = "awards"
 #    name = "Awards"
@@ -271,201 +271,201 @@ languageCode = 'en_AU'
 #    url = "/program/dc"
 #    parent = "program"
 #    weight = 20
- [[menu.main]]
-   identifier = "keynotes"
-   name = "Keynotes"
-   url = "/program/keynotes"
-   parent = "program"
-   weight = "30"
+ # [[menu.main]]
+ #   identifier = "keynotes"
+ #   name = "Keynotes"
+ #   url = "/program/keynotes"
+ #   parent = "program"
+ #   weight = "30"
 # [[menu.main]]
 #   identifier = "panel"
 #   name = "Industry Panel"
 #   url = "/program/panel"
 #   parent = "program"
 #   weight = "35"
-[[menu.main]]
-  identifier = "ws"
-  name = "Workshops"
-  parent = "program"
-  url = "/program/ws_overview"
-  weight = 40
+# [[menu.main]]
+#   identifier = "ws"
+#   name = "Workshops"
+#   parent = "program"
+#   url = "/program/ws_overview"
+#   weight = 40
 ######################### TUTORIALS
-[[menu.main]]
-   identifier = "tutorials"
-   parent = "program"
-   name = "Tutorials"
-   url = "/program/tutorial_overview"
-   weight = "50"
-[[menu.main]]
-   identifier = "plan_sat"
-   name = "Planning as SAT"
-   parent = "tutorials"
-   url = "/program/tutorials/plan_sat"
-   weight = "10"
-[[menu.main]]
-   identifier = "ml_plan_sat"
-   name = "Integrating Machine Learning and Planning as SAT"
-   parent = "tutorials"
-   url = "/program/tutorials/ml_plan_sat"
-   weight = "20"
-[[menu.main]]
-  identifier = "bfs_no_reopen"
-  name = "Sub-optimal Best-First Search without Node Re-openings"
-  parent = "tutorials"
-  url = "/program/tutorials/bfs_no_reopen"
-  weight = "30"
-[[menu.main]]
-  identifier = "learn_plan"
-  name = "Learning for Planning"
-  parent = "tutorials"
-  url = "/program/tutorials/learn_plan"
-  weight = "40"
-
-[[menu.main]]
-  identifier = "minizinc"
-  name = "MiniZinc - Constraint Programming for Planning"
-  parent = "tutorials"
-  url = "/program/tutorials/minizinc"
-  weight = "50"
-
-[[menu.main]]
-  identifier = "ltlf"
-  name = "LTLf Synthesis and Planning Under Unreliable Input"
-  parent = "tutorials"
-  url = "/program/tutorials/ltlf"
-  weight = "60"
-
-[[menu.main]]
-  identifier = "domain_ind_dp"
-  name = "Domain-Independent Dynamic Programming"
-  parent = "tutorials"
-  url = "/program/tutorials/domain_ind_dp"
-  weight = "70"
-
-[[menu.main]]
-  identifier = "ep"
-  name = "Epistemic Planning: Recent Advancements and Future Directions"
-  parent = "tutorials"
-  url = "/program/tutorials/ep"
-  weight = "80"
+# [[menu.main]]
+#    identifier = "tutorials"
+#    parent = "program"
+#    name = "Tutorials"
+#    url = "/program/tutorial_overview"
+#    weight = "50"
+# [[menu.main]]
+#    identifier = "plan_sat"
+#    name = "Planning as SAT"
+#    parent = "tutorials"
+#    url = "/program/tutorials/plan_sat"
+#    weight = "10"
+# [[menu.main]]
+#    identifier = "ml_plan_sat"
+#    name = "Integrating Machine Learning and Planning as SAT"
+#    parent = "tutorials"
+#    url = "/program/tutorials/ml_plan_sat"
+#    weight = "20"
+# [[menu.main]]
+#   identifier = "bfs_no_reopen"
+#   name = "Sub-optimal Best-First Search without Node Re-openings"
+#   parent = "tutorials"
+#   url = "/program/tutorials/bfs_no_reopen"
+#   weight = "30"
+# [[menu.main]]
+#   identifier = "learn_plan"
+#   name = "Learning for Planning"
+#   parent = "tutorials"
+#   url = "/program/tutorials/learn_plan"
+#   weight = "40"
+#
+# [[menu.main]]
+#   identifier = "minizinc"
+#   name = "MiniZinc - Constraint Programming for Planning"
+#   parent = "tutorials"
+#   url = "/program/tutorials/minizinc"
+#   weight = "50"
+#
+# [[menu.main]]
+#   identifier = "ltlf"
+#   name = "LTLf Synthesis and Planning Under Unreliable Input"
+#   parent = "tutorials"
+#   url = "/program/tutorials/ltlf"
+#   weight = "60"
+#
+# [[menu.main]]
+#   identifier = "domain_ind_dp"
+#   name = "Domain-Independent Dynamic Programming"
+#   parent = "tutorials"
+#   url = "/program/tutorials/domain_ind_dp"
+#   weight = "70"
+#
+# [[menu.main]]
+#   identifier = "ep"
+#   name = "Epistemic Planning: Recent Advancements and Future Directions"
+#   parent = "tutorials"
+#   url = "/program/tutorials/ep"
+#   weight = "80"
 
 ### WORKSHOPS
-  [[menu.main]]
-    identifier = "casp_er"
-    name = "CASP:ER"
-    parent = "ws"
-    url = "/program/workshops/casp_er"
-    weight = 10
-  [[menu.main]]
-    identifier = "haxp"
-    name = "HAXP"
-    url = "/program/workshops/haxp"
-    parent = "ws"
-    weight = 20
-  [[menu.main]]
-    identifier = "hsdip"
-    name = "HSDIP"
-    url = "/program/workshops/hsdip"
-    parent = "ws"
-    weight = 30
-  [[menu.main]]
-    identifier = "hplan"
-    name = "HPlan"
-    parent = "ws"
-    url = "/program/workshops/hplan"
-    weight = 40
-  [[menu.main]]
-    identifier = "keps"
-    name = "KEPS"
-    url = "/program/workshops/keps"
-    parent = "ws"
-    weight = 50
-  [[menu.main]]
-    identifier = "krplan"
-    name = "KRPlan"
-    parent = "ws"
-    url = "/program/workshops/krplan"
-    weight = 60
-  [[menu.main]]
-    identifier = "lm4plan"
-    name = "LM4Plan"
-    parent = "ws"
-    url = "/program/workshops/lm4plan"
-    weight = 70
-  [[menu.main]]
-    identifier = "planrob"
-    name = "PlanRob"
-    parent = "ws"
-    url = "/program/workshops/planrob"
-    weight = 80
-  [[menu.main]]
-    identifier = "prl"
-    name = "PRL"
-    parent = "ws"
-    url = "/program/workshops/prl"
-    weight = 90
-  [[menu.main]]
-    identifier = "ripl"
-    name = "RIPL"
-    parent = "ws"
-    url = "/program/workshops/ripl"
-    weight = 100
-  [[menu.main]]
-    identifier = "women_computing"
-    name = "Women in Computing"
-    parent = "ws"
-    url = "/program/workshops/women_computing"
-    weight = 100
-  [[menu.main]]
-    identifier = "optima_workshop"
-    name = "Industry - OPTIMA"
-    parent = "ws"
-    url = "/program/workshops/industry_optima"
-    weight = 100
+  # [[menu.main]]
+  #   identifier = "casp_er"
+  #   name = "CASP:ER"
+  #   parent = "ws"
+  #   url = "/program/workshops/casp_er"
+  #   weight = 10
+  # [[menu.main]]
+  #   identifier = "haxp"
+  #   name = "HAXP"
+  #   url = "/program/workshops/haxp"
+  #   parent = "ws"
+  #   weight = 20
+  # [[menu.main]]
+  #   identifier = "hsdip"
+  #   name = "HSDIP"
+  #   url = "/program/workshops/hsdip"
+  #   parent = "ws"
+  #   weight = 30
+  # [[menu.main]]
+  #   identifier = "hplan"
+  #   name = "HPlan"
+  #   parent = "ws"
+  #   url = "/program/workshops/hplan"
+  #   weight = 40
+  # [[menu.main]]
+  #   identifier = "keps"
+  #   name = "KEPS"
+  #   url = "/program/workshops/keps"
+  #   parent = "ws"
+  #   weight = 50
+  # [[menu.main]]
+  #   identifier = "krplan"
+  #   name = "KRPlan"
+  #   parent = "ws"
+  #   url = "/program/workshops/krplan"
+  #   weight = 60
+  # [[menu.main]]
+  #   identifier = "lm4plan"
+  #   name = "LM4Plan"
+  #   parent = "ws"
+  #   url = "/program/workshops/lm4plan"
+  #   weight = 70
+  # [[menu.main]]
+  #   identifier = "planrob"
+  #   name = "PlanRob"
+  #   parent = "ws"
+  #   url = "/program/workshops/planrob"
+  #   weight = 80
+  # [[menu.main]]
+  #   identifier = "prl"
+  #   name = "PRL"
+  #   parent = "ws"
+  #   url = "/program/workshops/prl"
+  #   weight = 90
+  # [[menu.main]]
+  #   identifier = "ripl"
+  #   name = "RIPL"
+  #   parent = "ws"
+  #   url = "/program/workshops/ripl"
+  #   weight = 100
+  # [[menu.main]]
+  #   identifier = "women_computing"
+  #   name = "Women in Computing"
+  #   parent = "ws"
+  #   url = "/program/workshops/women_computing"
+  #   weight = 100
+  # [[menu.main]]
+  #   identifier = "optima_workshop"
+  #   name = "Industry - OPTIMA"
+  #   parent = "ws"
+  #   url = "/program/workshops/industry_optima"
+  #   weight = 100
 #
 ######################### COMMITTEES
   [[menu.main]]
     identifier = "organisation"
     name = "Organisation"
     weight = 9000
-  [[menu.main]]
-    identifier = "pc"
-    name = "Program Committee"
-    url = "/organisation/program_committees"
-    parent = "organisation"
-    weight = 100
+  # [[menu.main]]
+  #   identifier = "pc"
+  #   name = "Program Committee"
+  #   url = "/organisation/program_committees"
+  #   parent = "organisation"
+  #   weight = 100
   [[menu.main]]
     identifier = "conference_chairs"
     name = "Conference Chairs"
     url = "/organisation/conference_chairs"
     parent = "organisation"
     weight = 100
-  [[menu.main]]
-    identifier = "paper_classification_system"
-    name = "Paper Classification System"
-    url = "/organisation/paper_classification_system"
-    parent = "organisation"
-  [[menu.main]]
-    identifier = "roles"
-    name = "Roles and Guidelines"
-    url = "/organisation/roles_and_guidelines"
-    parent = "organisation"
-    weight = 100
-  [[menu.main]]
-    identifier = "conditions_for_acceptance"
-    name = "Conditions for Acceptance"
-    url = "/organisation/conditions_for_acceptance"
-    parent = "organisation"
-  [[menu.main]]
-    identifier = "desk_rejection"
-    name = "Desk Rejection"
-    url = "/organisation/desk_rejection"
-    parent = "organisation"
-  [[menu.main]]
-    identifier = "conflicts_of_interest"
-    name = "Conflicts of Interest"
-    url = "/organisation/conflicts_of_interest"
-    parent = "organisation"
+  # [[menu.main]]
+  #   identifier = "paper_classification_system"
+  #   name = "Paper Classification System"
+  #   url = "/organisation/paper_classification_system"
+  #   parent = "organisation"
+  # [[menu.main]]
+  #   identifier = "roles"
+  #   name = "Roles and Guidelines"
+  #   url = "/organisation/roles_and_guidelines"
+  #   parent = "organisation"
+  #   weight = 100
+  # [[menu.main]]
+  #   identifier = "conditions_for_acceptance"
+  #   name = "Conditions for Acceptance"
+  #   url = "/organisation/conditions_for_acceptance"
+  #   parent = "organisation"
+  # [[menu.main]]
+  #   identifier = "desk_rejection"
+  #   name = "Desk Rejection"
+  #   url = "/organisation/desk_rejection"
+  #   parent = "organisation"
+  # [[menu.main]]
+  #   identifier = "conflicts_of_interest"
+  #   name = "Conflicts of Interest"
+  #   url = "/organisation/conflicts_of_interest"
+  #   parent = "organisation"
 
 # CODE OF CONDUCT
   [[menu.main]]

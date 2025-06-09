@@ -2,182 +2,33 @@
     "items": [
         {
             "position": "Conference Chairs",
-            "email": "icaps2025@gmail.com",
+            "email": "alfonso.gerevini@unibs.it",
             "people": [
                 {
-                    "name": "Nir Lipovetzky",
-                    "institution": "University of Melbourne",
-                    "country": "Australia"
-                },
-                {
-                    "name": "Sebastian Sardina",
-                    "institution": "RMIT University",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Program Chairs",
-            "email": "icaps25pc@googlegroups.com",
-            "people": [
-                {
-                    "name": "Daniel Harabor",
-                    "institution": "Monash University",
-                    "country": "Australia"
-                },
-                {
-                    "name": "Miquel Ramirez",
-                    "institution": "University of Melbourne",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Doctoral Consortium Chairs",
-            "emailc": "Sarath.Sreedharan@colostate.edu",
-            "people": [
-                {
-                    "name": "Sarath Sreedharan",
-                    "institution": "Colorado State University",
-                    "country": "United States"
-                },
-                {
-                    "name": "Felipe Meneguzzi",
-                    "institution": "University of Aberdeen",
-                    "country": "UK"
-                }
-            ]
-        },
-        {
-            "position": "Tutorial Chairs",
-            "emailc": "daniel.gnad@liu.se",
-            "people": [
-                {
-                    "name": "Daniel Gnad",
-                    "institution": "Linköping University",
-                    "country": "Sweden"
-                },
-                {
-                    "name": "Peta Masters",
-                    "institution": "King's College London",
-                    "country": "UK"
-                }
-            ]
-        },
-        {
-            "position": "Workshop Chairs",
-            "emailc": "chrpaluk@cvut.cz",
-            "people": [
-                {
-                    "name": "Lukas Chrpa",
-                    "institution": "Czech Technical University in Prague",
-                    "country": "Czech Republic",
-                    "email": "chrpaluk@cvut.cz"
-                },
-                {
-                    "name": "Ramon Fraga Pereira",
-                    "institution": "University of Manchester",
-                    "country": "UK"
-                }
-            ]
-        },
-        {
-            "position": "System Demo Chairs",
-            "emailc": "jiaoyanl@andrew.cmu.edu",
-            "people": [
-                {
-                    "name": "Jiaoyang Li",
-                    "institution": "Carnegie Mellon University",
-                    "country": "USA"
-                },
-                {
-                    "name": "Hector Palacios",
-                    "country": "Canada"
-                }
-            ]
-        },
-        {
-            "position": "Journal Chair",
-            "people": [
-                {
-                    "name": "Sara Bernardini",
-                    "institution": "University of Oxford",
-                    "country": "UK"
-                },
-                {
-                    "name": "Enrico Scala",
+                    "name": "Alfonso Gerevini",
                     "institution": "University of Brescia",
                     "country": "Italy"
-                }
-            ]
-        },
-        {
-            "position": "Sponsorship Chair",
-            "email": "charles.gretton@anu.edu.au",
-            "people": [
-                {
-                    "name": "Charles Gretton",
-                    "institution": "Australian National University",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Diversity and Inclusion Chairs",
-            "email": "mor.vered@monash.edu",
-            "people": [
-                {
-                    "name": "Mor Vered",
-                    "institution": "Monash University",
-                    "country": "Australia"
                 },
                 {
-                    "name": "Reuth Mirsky",
-                    "institution": "Bar-Ilan University",
-                    "country": "Israel"
+                    "name": "Adi Botea",
+                    "institution": "Eaton",
+                    "country": "Ireland"
                 }
             ]
         },
         {
             "position": "Publicity Chairs",
-            "email": "chenyuan.zhang@monash.edu",
+            "email": "daniel.gnad@uni-heidelberg.de",
             "people": [
                 {
-                    "name": "Chao Lei",
-                    "institution": "University of Melbourne",
-                    "country": "Australia"
+                    "name": "Alessandro Saetti",
+                    "institution": "University of Brescia",
+                    "country": "Italy"
                 },
                 {
-                    "name": "Chenyuan Zhang",
-                    "institution": "Monash University",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Web Design and Development",
-            "emailc": "nir.lipovetzky@unimelb.edu.au",
-            "people": [
-                {
-                    "name": "Kevin Zheng",
-                    "institution": "Monash University",
-                    "country": "Australia"
-                }
-            ]
-        },
-        {
-            "position": "Additional Contributors",
-            "emailc": "icaps25pc@googlegroups.com",
-            "people": [
-                {
-                    "name": "Julie Porteous",
-                    "institution": "RMIT University",
-                    "country": "Australia"
-                },
-                {
-                    "name": "Stefan Pranger",
-                    "institution": "Graz University of Technology",
-                    "country": "Austria"
+                    "name": "Daniel Gnad",
+                    "institution": "Heidelberg University",
+                    "country": "Germany"
                 }
             ]
         }
