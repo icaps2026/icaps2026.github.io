@@ -9,17 +9,16 @@ draft: false
 All important dates will be announced here.
 
 <!--## 2025
-
 - Fall 2025 - Submission site opens
 - October 25, 2024 - Abstracts due
 - November 1, 2024 - Full papers due (electronic submission, PDF)
 - November 15 2024 - Desk reject notification
 - December 16, 2024 - Phase 1 reject notification
-  - Authors receive Phase 1 reviews
+  - Authors receive Phase 1 reviews-->
 
 
-<!--## 2025
-- January 30 to February 4, 2025 - Author feedback period
+## 2026
+<!-- - January 30 to February 4, 2025 - Author feedback period
 - February 5 to February 28, 2025 - Discussion phase
 - **March 1, 2025** - Notifications are sent to authors
 - **~~March 10~~ March 17, 2025** - Workshop proposals due
@@ -35,8 +34,8 @@ All important dates will be announced here.
 </br>
 </br>
 - **November 9** - ICAPS 2025 DC
-- **November 10-11** - ICAPS 2025 Workshops/Tutorials
-- **November 12-14** - ICAPS 2025 Main Conference-->
+- **November 10-11** - ICAPS 2025 Workshops/Tutorials-->
+- **June 27 - July 2** - ICAPS 2026 Conference
 
 
 

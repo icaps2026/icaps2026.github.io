@@ -17,7 +17,7 @@ applications of intelligent and automated planning and scheduling technology.
 
 Planning and Scheduling are optimisation problems which require finding a set of actions to complete a task, to achieve a goal, or to optimise one or more objectives. Effective solutions to planning and scheduling problems are critical for a variety of important application areas, including Industry 4.0, aerospace systems, supply chain management, software engineering, robotics, education, digital entertainment and more.
 
-**ICAPS 2026** is the 36th edition of the ICAPS conference series and will take place in Dublin, Ireland in June 2026.
+**ICAPS 2026** is the 36th edition of the ICAPS conference series and will take place in Dublin, Ireland in June/July 2026.
 
 
 <!-- {{< sponsors_table_json "sponsors/sponsors.json" >}}-->

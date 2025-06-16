@@ -11,7 +11,7 @@ languageCode = 'en_US'
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
   title = "The 36th International Conference" # Logo title, otherwise will use site title
   title2 = "on Automated Planning and Scheduling"
-  subtitle = "Dublin, Ireland, \n June 2026" # Logo subtitle
+  subtitle = "Dublin, Ireland, \n June 27 - July 2, 2026" # Logo subtitle
 
 [Params.style.vars]
      highlightColor = "#f5821f"
