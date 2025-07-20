@@ -2,33 +2,204 @@
     "items": [
         {
             "position": "Conference Chairs",
-            "email": "alfonso.gerevini@unibs.it",
+            "email": "",
             "people": [
+                {
+                    "name": "Adi Botea",
+                    "institution": "Eaton",
+                    "country": "Ireland"
+                },
                 {
                     "name": "Alfonso Gerevini",
                     "institution": "University of Brescia",
                     "country": "Italy"
+                }
+            ]
+        },
+        {
+            "position": "Program Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Amanda Coles",
+                    "institution": "Kings College London",
+                    "country": "UK"
                 },
                 {
-                    "name": "Adi Botea",
-                    "institution": "Eaton",
+                    "name": "Wheeler Ruml",
+                    "institution": "University of New Hampshire",
+                    "country": "USA"
+                },
+                {
+                    "name": "Sandhya Saisubramanian",
+                    "institution": "Oregon State University",
+                    "country": "USA"
+                }
+            ]
+        },
+        {
+            "position": "Local Organizing Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Rem Collier",
+                    "institution": "University College Dublin",
                     "country": "Ireland"
                 }
             ]
         },
         {
-            "position": "Publicity Chairs",
-            "email": "daniel.gnad@uni-heidelberg.de",
+            "position": "Doctoral Consortium Chairs",
+            "email": "",
             "people": [
+                {
+                    "name": "Malte Helmert",
+                    "institution": "University of Basel",
+                    "country": "Switzerland"
+                },
+                {
+                    "name": "Jane Jean Kiam",
+                    "institution": "University of the Bundeswehr Munich",
+                    "country": "Germany"
+                },
+                {
+                    "name": "Ivan Serina",
+                    "institution": "University of Brescia",
+                    "country": "Italy"
+                }
+            ]
+        },
+        {
+            "position": "Tutorial Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Sarah Keren",
+                    "institution": "Technion",
+                    "country": "Israel"
+                }
+            ]
+        },
+        {
+            "position": "Workshop Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Daniel Harabor",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                },
+                {
+                    "name": "Mor Vered",
+                    "institution": "Monash University",
+                    "country": "Australia"
+                }
+            ]
+        },
+        {
+            "position": "System Demo Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Christian Muise",
+                    "institution": "Queen's University",
+                    "country": "Canada"
+                }
+            ]
+        },
+        {
+            "position": "Journal Track Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Jendrik Seipp",
+                    "institution": "Linköping University",
+                    "country": "Sweden"
+                },
+                {
+                    "name": "Sylvie Thiebaux",
+                    "institution": "Australian National University",
+                    "country": "Australia and University of Toulouse, France"
+                }
+            ]
+        },
+        {
+            "position": "Summer School Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Scott Sanner",
+                    "institution": "University of Toronto",
+                    "country": "Canada"
+                },
+                {
+                    "name": "Siddharth Srivastava",
+                    "institution": "Arizona State University",
+                    "country": "USA"
+                }
+            ]
+        },
+        {
+            "position": "Sponsorship Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Sven Koenig",
+                    "institution": " University of California, Irvine",
+                    "country": "USA"
+                },
+                {
+                    "name": "Jiaoyang Li",
+                    "institution": "Carnegie Mellon University",
+                    "country": "USA"
+                },
+                {
+                    "name": "Neil Yorke Smith",
+                    "institution": "Delft University",
+                    "country": "Netherlands"
+                },
+                {
+                    "name": "Hankz Hankui Zhuo",
+                    "institution": "Nanjing University",
+                    "country": "China"
+                }
+            ]
+        },
+        {
+            "position": "Mentoring Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Hana Rudova",
+                    "institution": "Masaryk University",
+                    "country": "Czechia"
+                }
+            ]
+        },
+        {
+            "position": "Workflow Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Pulkit Verma",
+                    "institution": "MIT",
+                    "country": "USA"
+                }
+            ]
+        },
+        {
+            "position": "Publicity Chairs",
+            "email": "",
+            "people": [
+                {
+                    "name": "Daniel Gnad",
+                    "institution": "Heidelberg University",
+                    "country": "Germany and Linköping University, Sweden"
+                },
                 {
                     "name": "Alessandro Saetti",
                     "institution": "University of Brescia",
                     "country": "Italy"
-                },
-                {
-                    "name": "Daniel Gnad",
-                    "institution": "Heidelberg University",
-                    "country": "Germany"
                 }
             ]
         }
