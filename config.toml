@@ -427,7 +427,7 @@ languageCode = 'en_US'
 ######################### COMMITTEES
   [[menu.main]]
     identifier = "organisation"
-    name = "Organisation"
+    name = "Committees"
     weight = 9000
   # [[menu.main]]
   #   identifier = "pc"
@@ -437,7 +437,7 @@ languageCode = 'en_US'
   #   weight = 100
   [[menu.main]]
     identifier = "conference_chairs"
-    name = "Conference Chairs"
+    name = "Organizers"
     url = "/organisation/conference_chairs"
     parent = "organisation"
     weight = 100
