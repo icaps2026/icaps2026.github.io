@@ -8,16 +8,13 @@ draft: false
 
 All important dates will be announced here.
 
-<!--## 2025
-- Fall 2025 - Submission site opens
-- October 25, 2024 - Abstracts due
-- November 1, 2024 - Full papers due (electronic submission, PDF)
-- November 15 2024 - Desk reject notification
-- December 16, 2024 - Phase 1 reject notification
-  - Authors receive Phase 1 reviews-->
-
+## 2025
+- **Fall 2025**: Submission site opens
+- **December 1, 2025:** Abstracts due
+- **December 8, 2025:** Full papers due
 
 ## 2026
+- **February 16, 2026:** Notification of acceptance
 <!-- - January 30 to February 4, 2025 - Author feedback period
 - February 5 to February 28, 2025 - Discussion phase
 - **March 1, 2025** - Notifications are sent to authors
