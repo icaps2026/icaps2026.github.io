@@ -590,8 +590,8 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	background-repeat: no-repeat;
 	background-position: center 0em;
 	background-size: 1080px;
-	padding-top: 15em;
-	min-height: 350px;
+	padding-top: 6em;
+	min-height: 525px;
 }
 
 @media screen and (min-width: 767px) {
