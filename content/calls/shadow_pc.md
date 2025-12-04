@@ -65,7 +65,7 @@ or results from reviewed papers before they have been published.
 
 Please submit the following information:
 
-- Name and affiliation
+- Name, email and affiliation
 - Career stage (e.g. PhD year, postdoc). If you are a PhD student,
   include the name of your PhD advisor.
 - Brief description of your research area (just a few keywords) and
