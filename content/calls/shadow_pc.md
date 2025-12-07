@@ -63,7 +63,7 @@ or results from reviewed papers before they have been published.
 
 ## How to Apply
 
-Please submit the following information in the [application form](https://forms.office.com/r/9vggMgzYrC)
+Please submit the following information in the [application form](https://forms.office.com/r/9vggMgzYrC).
 
 - Name, email and affiliation
 - Career stage (e.g. PhD year, postdoc). If you are a PhD student,
@@ -92,4 +92,4 @@ members.
 
 ## Contact
 
-Send an email to [Patrik Haslum, Gabriele Röger and Rick Valenzano].(mailto:patrik.haslum@anu.edu.au;gabriele.roeger@unibas.ch;rick.valenzano@torontomu.ca?subject=ICAPS 2026 shadow PC")
+Send an email to [Patrik Haslum, Gabriele Röger and Rick Valenzano](mailto:patrik.haslum@anu.edu.au,gabriele.roeger@unibas.ch,rick.valenzano@torontomu.ca?subject=ICAPS%202026%20shadow%20PC).
