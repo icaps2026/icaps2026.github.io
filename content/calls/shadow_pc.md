@@ -63,7 +63,7 @@ or results from reviewed papers before they have been published.
 
 ## How to Apply
 
-Please submit the following information:
+Please submit the following information in the [application form](https://forms.office.com/r/9vggMgzYrC)
 
 - Name, email and affiliation
 - Career stage (e.g. PhD year, postdoc). If you are a PhD student,
@@ -73,7 +73,6 @@ Please submit the following information:
   a paper published in or submitted to ICAPS, or a similar conference?)
   This information will be used to match shadow reviewers with papers,
   not to select members of the shadow PC.
-- TODO: How/where to submit (Form?)
 
 By applying to be part of the Shadow PC, you commit to upholding the
 principles and standards of ethical conduct that apply to all PC
@@ -93,4 +92,4 @@ members.
 
 ## Contact
 
-TODO
+Send an email to [Patrik Haslum, Gabriele Röger and Rick Valenzano].(mailto:patrik.haslum@anu.edu.au;gabriele.roeger@unibas.ch;rick.valenzano@torontomu.ca?subject=ICAPS 2026 shadow PC")
