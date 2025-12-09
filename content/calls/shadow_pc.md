@@ -48,7 +48,7 @@ Pursuing a PhD in this area would typically indicate sufficient familiarity.
 Shadow PC members are expected to:
 
 - Read the information material (or attend an online pre-review meeting)
-- Review 2-3 papers
+- Review 1-2 papers
 - Read and respond to other reviews of the papers that you review, and
   participate actively in online discussions about those papers.
 - Potentially lead the discussion for a paper and write a meta review
