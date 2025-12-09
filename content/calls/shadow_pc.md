@@ -81,14 +81,15 @@ members.
 ## Important Dates (Shadow PC)
 
 - Submit your application to be part of the Shadow PC no later than
-  the 15th of December!
-- Your assignment of papers to review will be announced by the 21st
-  of December.
+  the 31st of December!
+- You bid on papers before January 6th.
+- Your assignment of papers to review will be announced by the 9th of January.
 - Pre-review information and meetings will take place in early January
   2026.
-- Reviews are due on the 30th of January 2026.
-- Discussion about papers, and feedback on reviews, will take place
-  in the first 2-3 weeks of February 2026.
+- Reviews are due at the beginning of February 2026.
+- Discussion about papers, and feedback on reviews, will take place until mid February 2026.
+
+The reference timezone for all deadlines is UTC-12 (that date anywhere on Earth).
 
 ## Contact
 
