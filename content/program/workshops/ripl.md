@@ -25,7 +25,6 @@ Reliability of data-driven artifacts, in particular ML classifier robustness and
 **9:00 - 10:00** Session: Welcome and Invited Talk
 - Welcome and Open Remarks
 
-<!-- - Invited Talk: **Siddharth Srivastava -- The Return of Structure: Learning Symbolic World Models from Raw Data for Reliable Planning and RL** -->
 - Invited Talk
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="/files/workshops/ripl/Srivastava.jpeg" alt="Siddharth Srivastava" style="width: 220px;">
@@ -53,7 +52,7 @@ Reliability of data-driven artifacts, in particular ML classifier robustness and
 **12:30 - 14:00 Lunch Break**
 
 **14:00 - 15:30** Session 3: Learning for Classical Planning
-- Mingyu Hao, Sylvie Thiebaux, and Felipe Trevizan – **Self-Supervised Improvement of Learned Search Guidance** [(bibtex)](/files/workshops/ripl/HaoRIPL26.bib)
+- Mingyu Hao, Sylvie Thiebaux, and Felipe Trevizan – **Active-Learning for Learned Search Guidance Improvement** [(bibtex)](/files/workshops/ripl/HaoRIPL26.bib)
 - Arnaud Lequen – **Learning Interpretable Classifiers for PDDL Planning** ([pdf](/files/workshops/ripl/LequenRIPL26.pdf), [bibtex](/files/workshops/ripl/LequenRIPL26.bib)) (ECAI 2024 paper)
 - Mariam Musavi, Johannes K. Fichte, and Daniel Gnad – **Learning Object Priorities for Partial Grounding** ([pdf](/files/workshops/ripl/MusaviRIPL26.pdf), [bibtex](/files/workshops/ripl/MusaviRIPL26.bib))
 - Windy Phung, Arnaud Lequen, Dominik Drexler, and Jendrik Seipp – **LLM-Evolved Pattern Generators for Optimal Classical Planning** ([pdf](/files/workshops/ripl/PhungRIPL26.pdf), [bibtex](/files/workshops/ripl/PhungRIPL26.bib))
