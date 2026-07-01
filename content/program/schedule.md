@@ -129,6 +129,21 @@ draft: false
     vertical-align: middle;
     white-space: nowrap;
 }
+.published-badge {
+    display: inline-block;
+    background-color: #eef1f4;
+    color: #555;
+    border: 1px solid #ccc;
+    font-size: 0.68em;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 1px 7px;
+    border-radius: 10px;
+    margin-left: 8px;
+    vertical-align: middle;
+    white-space: nowrap;
+}
 </style>
 
 ---
@@ -498,7 +513,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Towards a Unified View of Social Laws with Instantaneous Actions</strong><br/>
+<strong style="color: #f5821f;">14:00</strong> &nbsp; <strong>Towards a Unified View of Social Laws with Instantaneous Actions</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Alexander Tuisov, Evgeny Mishlyakov, Alexander Shleyfman and Erez Karpas</em>
 </div>
 
@@ -508,7 +523,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">14:20</strong> &nbsp; <strong>Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning</strong><br/>
+<strong style="color: #f5821f;">14:20</strong> &nbsp; <strong>Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Emanuele Musumeci, Michele Brienza, Francesco Argenziano, Abdel Hakim Drid, Vincenzo Suriani, Daniele Nardi, and Domenico D. Bloisi</em>
 </div>
 
@@ -525,7 +540,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">14:45</strong> &nbsp; <strong>Automated Planning Instance Generation with Neuro-Symbolic AI</strong><br/>
+<strong style="color: #f5821f;">14:45</strong> &nbsp; <strong>Automated Planning Instance Generation with Neuro-Symbolic AI</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Carlos Núñez-Molina, Pablo Mesejo and Juan Fernández-Olivares</em>
 </div>
 
@@ -580,7 +595,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:20</strong> &nbsp; <strong>Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking</strong><br/>
+<strong style="color: #f5821f;">16:20</strong> &nbsp; <strong>Constrained and Robust Policy Synthesis with Satisfiability-Modulo-Probabilistic-Model-Checking</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Linus Heck, Filip Macák, Milan Češka and Sebastian Junges</em>
 </div>
 
@@ -603,7 +618,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>EMOA*: A Framework for Search-Based Multi-Objective Path Planning</strong><br/>
+<strong style="color: #f5821f;">16:00</strong> &nbsp; <strong>EMOA*: A Framework for Search-Based Multi-Objective Path Planning</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Zhongqiang Ren, Carlos Hernández, Maxim Likhachev, Ariel Felner, Sven Koenig, Oren Salzman, Sivakumar Rathinam and Howie Choset</em>
 </div>
 
@@ -636,7 +651,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 <div class="session-block">
 
 <div class="paper-item">
-<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>Multi-Neighborhood Simulated Annealing for the Oven Scheduling Problem</strong><br/>
+<strong style="color: #f5821f;">16:30</strong> &nbsp; <strong>Multi-Neighborhood Simulated Annealing for the Oven Scheduling Problem</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Francesca Da Ros, Luca Di Gaspero, Marie-Louise Lackner, Nysret Musliu and Felix Winter</em>
 </div>
 
@@ -711,7 +726,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">10:55</strong> &nbsp; <strong>Counting and Reasoning with Plans</strong><br/>
+<strong style="color: #f5821f;">10:55</strong> &nbsp; <strong>Counting and Reasoning with Plans</strong> <span class="published-badge">Previously Published</span><br/>
 <em>David Speck, Markus Hecher, Daniel Gnad, Johannes K. Fichte and Augusto B. Corrêa</em>
 </div>
 
@@ -825,7 +840,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">14:30</strong> &nbsp; <strong>Symbolic Pattern Planning</strong><br/>
+<strong style="color: #f5821f;">14:30</strong> &nbsp; <strong>Symbolic Pattern Planning</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Matteo Cardellini, Enrico Giunchiglia and Marco Maratea</em>
 </div>
 
@@ -853,7 +868,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">13:55</strong> &nbsp; <strong>Relational Neurosymbolic Markov Models</strong><br/>
+<strong style="color: #f5821f;">13:55</strong> &nbsp; <strong>Relational Neurosymbolic Markov Models</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Lennert De Smet, Gabriele Venturato, Luc De Raedt and Giuseppe Marra</em>
 </div>
 
@@ -952,7 +967,7 @@ Lunch is provided to all participants from June 28th to July 2nd (inclusive). On
 </div>
 
 <div class="paper-item">
-<strong style="color: #f5821f;">10:45</strong> &nbsp; <strong>Concrete multi-agent path planning enabling kinodynamically aggressive maneuvers</strong><br/>
+<strong style="color: #f5821f;">10:45</strong> &nbsp; <strong>Concrete multi-agent path planning enabling kinodynamically aggressive maneuvers</strong> <span class="published-badge">Previously Published</span><br/>
 <em>Keisuke Okumura, Guang Yang, Zhan Gao, Heedo Woo and Amanda Prorok </em>
 </div>
 
