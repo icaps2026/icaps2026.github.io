@@ -11,23 +11,41 @@
     
     {{- if .HasChildren }}
     <li class="menu__item menu__dropdown{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+      {{- if .URL }}
       <a class="menu__link" href="{{ .URL }}">
         {{ .Pre }}
         <span class="menu__text">{{ .Name }}</span>
         <label class="drop-icon" for="{{ .Name }}">▾</label>
         {{ .Post }}
       </a>
+      {{- else }}
+      <label class="menu__link" for="{{ .Name }}">
+        {{ .Pre }}
+        <span class="menu__text">{{ .Name }}</span>
+        <span class="drop-icon">▾</span>
+        {{ .Post }}
+      </label>
+      {{- end }}
       <input type="checkbox" id="{{ .Name }}">
       <ul class="submenu__list">
         {{ range .Children }}
         	{{- if .HasChildren }}
         	<li class="menu__item menu__dropdown{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
+		      {{- if .URL }}
 		      <a class="menu__link" href="{{ .URL }}">
 			{{ .Pre }}
 			<span class="menu__text">{{ .Name }}</span>
 			<label class="drop-icon" for="{{ .Name }}">▾</label>
 			{{ .Post }}
 		      </a>
+		      {{- else }}
+		      <label class="menu__link" for="{{ .Name }}">
+			{{ .Pre }}
+			<span class="menu__text">{{ .Name }}</span>
+			<span class="drop-icon">▾</span>
+			{{ .Post }}
+		      </label>
+		      {{- end }}
 		      <input type="checkbox" id="{{ .Name }}">
 		      <ul class="submenu__list">
 			{{ range .Children }}
