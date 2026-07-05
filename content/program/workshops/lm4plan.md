@@ -72,6 +72,8 @@ All **submissions must be anonymized** and may not contain any identifying infor
 
 **[Jendrik Seipp](https://mrlab.ai/jendrik-seipp/), Linköping University**
 
+📄 [Slides](/files/workshops/lm4plan/seipp-lm4plan2026-talk.pdf) &nbsp;·&nbsp; ▶️ [Watch the talk](https://www.youtube.com/watch?v=ECBiQsFxYpo)
+
 ### Abstract
 
 For years, LLMs couldn't reliably solve even the smallest planning tasks. That has changed: we recently showed that the latest frontier models now beat even the strongest classical planners on several benchmark domains. Using an LLM as the planner is still rarely the best choice. Having it build planner components instead is faster, cheaper, and far less energy-hungry. I show how to do this while keeping the guarantees that make classical planning worth using, like optimality and bounded runtime. And it doesn't stop at planners. Agents can now carry out research largely on their own, and I'll close with some thoughts on what that means for how we work as researchers.
@@ -225,7 +227,7 @@ Jendrik Seipp is a Senior Associate Professor in Artificial Intelligence at Link
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 15:50 | Invited talk: LLMs don't even need to plan — they can build planners | Jendrik Seipp | 50 |
+| 15:50 | Invited talk: [LLMs don't even need to plan — they can build planners](/files/workshops/lm4plan/seipp-lm4plan2026-talk.pdf) ([video](https://www.youtube.com/watch?v=ECBiQsFxYpo)) | Jendrik Seipp | 50 |
 | 16:40 | Panel discussion and closing remarks |  | 50 |
 
 </div>
