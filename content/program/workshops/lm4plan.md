@@ -6,7 +6,7 @@ draft: false
 
 # 3rd Workshop on Planning in the Era of LLMs (LM4Plan @ ICAPS 2026)
 
-> **Update:** Schedule and Invited Talk announced!
+> **Update:** Invited talk slides and recording are now available!
 
 Visit [https://llmforplanning.github.io/](https://llmforplanning.github.io/ICAPS26/) for up-to-date information.
 The workshop will take place on **June 29, 2026**.
