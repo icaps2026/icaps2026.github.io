@@ -6,7 +6,7 @@ draft: false
 
 # 3rd Workshop on Planning in the Era of LLMs (LM4Plan @ ICAPS 2026)
 
-> **Update:** Schedule and Invited Talk announced!
+> **Update:** Invited talk slides and recording are now available!
 
 Visit [https://llmforplanning.github.io/](https://llmforplanning.github.io/ICAPS26/) for up-to-date information.
 The workshop will take place on **June 29, 2026**.
@@ -71,6 +71,8 @@ All **submissions must be anonymized** and may not contain any identifying infor
      style="float: right; margin: 0.2rem 0 1rem 1.5rem; border-radius: 8px;">
 
 **[Jendrik Seipp](https://mrlab.ai/jendrik-seipp/), Linköping University**
+
+📄 [Slides](/files/workshops/lm4plan/seipp-lm4plan2026-talk.pdf) &nbsp;·&nbsp; ▶️ [Watch the talk](https://www.youtube.com/watch?v=ECBiQsFxYpo)
 
 ### Abstract
 
@@ -225,7 +227,7 @@ Jendrik Seipp is a Senior Associate Professor in Artificial Intelligence at Link
 
 | Time | Paper | Authors | Len |
 |------|-------|---------|-----|
-| 15:50 | Invited talk: LLMs don't even need to plan — they can build planners | Jendrik Seipp | 50 |
+| 15:50 | Invited talk: [LLMs don't even need to plan — they can build planners](/files/workshops/lm4plan/seipp-lm4plan2026-talk.pdf) ([video](https://www.youtube.com/watch?v=ECBiQsFxYpo)) | Jendrik Seipp | 50 |
 | 16:40 | Panel discussion and closing remarks |  | 50 |
 
 </div>
