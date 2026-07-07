@@ -178,7 +178,7 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 | Time | Paper | Authors | 
 |------|-------|---------|
 | 14:15 |[A Comparison of Unsolvability Certificates in Planning and Model Checking](/files/workshops/casper/CASPER_2026_paper_1.pdf)|Malte Helmert and Tanja Schindler|
-| 14:30 |[Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts](/files/workshops/casper/CASPER_2026_paper_2.pdf)|João Felipe, Álvaro Torralba and Gregor Behnke|
+| 14:30 |[Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts](/files/workshops/casper/CASPER_2026_paper_6.pdf)|João Felipe, Álvaro Torralba and Gregor Behnke|
 | 14:45 |[Lifted Planning as SMT](/files/workshops/casper/CASPER_2026_paper_7.pdf)|Miquel Bofill, Cristina Borralleras and Josu Oca|
 | 15:00 |[An Automata-Based Constraint Programming Framework for Optimal Classical Planning (Extended Abstract)](/files/workshops/casper/CASPER_2026_paper_2.pdf)|Damien Van Meerbeeck, Arnaud Lequen, Gilles Pesant and Jendrik Seipp|
 | 15:15 |[Towards Qualitative Constraint-Based HTN Planning: A Research Agenda](/files/workshops/casper/CASPER_2026_paper_8.pdf)|Tobias Schwartz, Christopher Walther and Diedrich Wolter|
