@@ -4,11 +4,13 @@ draft: false
 ---
 
 
+
 # ICAPS 2026 Outstanding Paper Awards
 
 The following papers were recognized with awards at ICAPS 2026.
 
-# Best Paper Award
+
+## <center>Best Paper Award</center>
 
 <center>
 
@@ -17,7 +19,7 @@ The following papers were recognized with awards at ICAPS 2026.
 
 </center>
 
-# Best Paper Runner-Up Award
+## <center>Best Paper Runner-Up Award</center>
 
 <center>
 
@@ -26,7 +28,7 @@ The following papers were recognized with awards at ICAPS 2026.
 
 </center>
 
-# Best Student Paper Award
+## <center>Best Student Paper Award</center>
 
 <center>
 
@@ -35,7 +37,8 @@ The following papers were recognized with awards at ICAPS 2026.
 
 </center>
 
-# Best Student Paper Runner-Up Award
+
+## <center>Best Student Paper Runner-Up Award</center>
 
 <center>
 
@@ -44,7 +47,9 @@ The following papers were recognized with awards at ICAPS 2026.
 
 </center>
 
-# Outstanding Program Committee Member Award
+----
+
+# <center>Outstanding Program Committee Member Award</center>
 
 <center>
 
@@ -52,6 +57,17 @@ The following papers were recognized with awards at ICAPS 2026.
 
 </center>
 
----
+----
+
+# <center>Best System's Demonstration Award</center>
+
+<center>
+
+**Erol Medenčević, Jakub Med, and Lukas Chrpa**  
+*PANSim: A System for Simulating and Visualizing Planning Against Nature*
+
+</center>
+
+----
 
 For more information about outstanding dissertation and influential paper awards, please visit the [ICAPS Awards page](https://www.icaps-conference.org/icaps-awards/).
