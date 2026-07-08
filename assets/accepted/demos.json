@@ -4,83 +4,95 @@
     "authors": "Maximilian Schnell, Nico Michel, Björn Döschl, Kai Sommer and Jane Jean Kiam",
     "image": "/img/demos/2.png",
     "abstract": "Multi-Unmanned Aerial Vehicle (UAV) systems are increasingly used in applications such as Search and Rescue (SAR) and surveillance, where multiple aerial robots must coordinate under time pressure. As fleet sizes grow, manual coordination becomes infeasible, making automated planning essential to generate and adapt coordinated actions in dynamic environments. We present AUSPEX, an open-source framework for automated planning and execution in multi-UAV systems. AUSPEX integrates multiple planning approaches and enables closed-loop replanning during execution, supporting coordinated missions across heterogeneous UAVs. The system was validated through Hardware-in-the-Loop (HIL) experiments in an SAR scenario.",
-    "link": "https://www.youtube.com/watch?v=Fu3FXhT4qaA"
+    "link": "https://www.youtube.com/watch?v=Fu3FXhT4qaA",
+    "pdf": "/files/demos/icaps26-demo_paper_2.pdf"
   },
   {
     "title": "AMPLIFIED: A Modular Toolchain to Benchmark Robotic Planning and Execution Tools",
     "authors": "Baptiste Pelletier, Alexandre Albore, Jean Jane Kiam, Kai Sommer and Caroline Ponzoni Carvalho Chanel",
     "image": "/img/demos/3.png",
     "abstract": "The wide catalogue of planners enables mission-planning solutions to be tailored to assumptions made on the environment and user needs. However, in robotics, the execution of plans and policies created by these planners is not always straightforward, because autonomous robots deployed in open and dynamic environments undergo fluctuating environmental conditions, partial information, and uncertain execution times. On top of bare engineering issues, planner integration and usability requires reliable and verifiable execution frameworks. We propose AMPLIFIED, a complete toolchain to plan and execute in complex environments, with the goal to assess the quality of the integrated solution. AMPLIFIED is modular, thereby allowing the integration of community-made elements, from the decisional layer to low-level controllers. Building upon an antipoaching scenario, we illustrate how AMPLIFIED can be used to qualitatively evaluate different planners and the executability of their solutions.",
-    "link": "https://youtu.be/znwcHL5m1a4"
+    "link": "https://youtu.be/znwcHL5m1a4",
+    "pdf": "/files/demos/icaps26-demo_paper_3.pdf"
   },
   {
     "title": "Solving Scaleable POMDP Mazes with Parallel Temporally Extended Task Sequences",
     "authors": "Andy Edmondson and Ron Petrick",
     "image": "/img/demos/4.png",
     "abstract": "Search and Rescue domains may involve completing initially unknown numbers of temporally extended task sequences within partially observable non-stationary environments. Many learning approaches struggle in such environments because doing so requires memory of value transitions and previously visited states. While POMDP environments with short sequences of subtasks exist, they do not require completion of multiple sequences in parallel and do not require a policy to cope with initially unknown numbers of parallel tasks, variable subtask sequencing and non-stationarities. This work presents a new gridworld maze environment which requires agents to remember subtask progress across an unknown and potentially large number of parallel subtasks while exploring an unknown environment and rescuing an unknown number of non-stationary people. Scaling to 1000 rooms with 1500 people, this environment can aid researchers evaluate solutions to this class of problem. The demonstration shows a Priority-Based Reward-Machine Switching (PBRMS) agent, a novel approach which decouples Reward Machine states from task sequence instances, fully exploring a 100 room environment with 500 people across 8962 timesteps.",
-    "link": "https://youtu.be/851cbv87U3w"
+    "link": "https://youtu.be/851cbv87U3w",
+    "pdf": "/files/demos/icaps26-demo_paper_4.pdf"
   },
   {
     "title": "Janeway: A Temporally Flexible Plan Executive",
     "authors": "Jake Olkin, Ian Lee, Kristoff Misquita and Brian Williams",
     "image": "/img/demos/5.png",
     "abstract": "A robust executive is necessary to dispatch plans to robotic systems. These executives should be able to monitor plan execution to determine if they are going to be successful, and make adjustments to the plan to avoid failures. There are no existing executives that are both capable of flexible execution and are compatible with the standard interfaces for ICAPS planners and robotic systems. Existing executives that are compatible with these standard interfaces are unable to adapt the order or schedule of activities during execution. To close this gap, we present Janeway, a flexible plan executive capable of both relaxing grounded plans, and dynamically dispatching them. Janeway accomplishes this by combining causal link monitoring with a dynamic scheduler to achieve robustness with both respect to temporal constraints and state constraints.",
-    "link": "https://youtu.be/sXDgGBwtE6M"
+    "link": "https://youtu.be/sXDgGBwtE6M",
+    "pdf": "/files/demos/icaps26-demo_paper_5.pdf"
   },
   {
     "title": "Dynamic Scene Recreation Pipeline for Planning Environments",
     "authors": "Albaraa Othman, Prab Singh, Emanuele De Pellegrin, Maria Koskinopoulou and Ron Petrick",
     "image": "/img/demos/6.png",
     "abstract": "Dynamic Scene Reconstruction is the complex task of creating a virtual counterpart to a real environment. However, recent advancements in foundation models have demonstrated their emerging ability to interpret elements and properties in scenes. While the use of these models in real-world domains remains an open challenge, coupled with sensor data, they provide a useful tool for generating the semantics of a scene. This demonstration presents a new framework that uses depth cameras and recent foundation models to identify and isolate objects within a scene and encode their properties into a symbolic representation in PDDL. This representation is suitable for plan generation, execution, and visualisation, with scene elements reconstructed in the Planning Domain Simulation (PDSim) environment.",
-    "link": "https://www.youtube.com/watch?v=2-7EH5sT0rk"
+    "link": "https://www.youtube.com/watch?v=2-7EH5sT0rk",
+    "pdf": "/files/demos/icaps26-demo_paper_6.pdf"
   },
   {
     "title": "i-EXAM: Instructable and Explainable Attack Connectivity Graph Modeler",
     "authors": "Rakesh Podder, Wadia Ganim, Sarath Sreedharan, Indrajit Ray and Indrakshi Ray",
     "image": "/img/demos/7.png",
     "abstract": "i-EXAM is a planning-powered tool that helps system administrators to create security profiles of complex networks and perform what-if analyses to identify network hardening strategies. It leverages planning compilation that provides soundness and completeness guarantees — to identify attack paths, evaluate security metrics, generate diverse hardening strategies, and explain these strategies in natural language using Large Language Models.",
-    "link": "https://youtu.be/c4m6EDIpMxM"
+    "link": "https://youtu.be/c4m6EDIpMxM",
+    "pdf": "/files/demos/icaps26-demo_paper_7.pdf"
   },
   {
     "title": "PANSim: A System for Simulating and Visualizing Planning Against Nature",
     "authors": "Erol Medenčević, Jakub Med and Lukas Chrpa",
     "image": "/img/demos/8.png",
     "abstract": "Planning against nature provides a formal framework for addressing the inherent nondeterminism found in environments shaped by exogenous events. Although several visualization tools exist for classical planning, they generally lack support for such exogenous events. We introduce PANSim, an interactive simulation and visualization tool specifically designed for planning against nature tasks. PANSim features a frontend developed in Unity for clear visual interpretation of planning in such domains and a backend implemented in Python. Relying on a standardized JSON communication format, the backend can function as a standalone simulator, allowing users to easily connect and evaluate any custom agent with or without the visual interface. We demonstrate the capabilities of the tool using three default agents designed to generate reboust plans, showcased in two included environments: the Perestroika domain, inspired by a retro game, and the Autonomous Underwater Vehicle (AUV) domain.",
-    "link": "https://gitlab.com/automated-planning/tools/pansim"
+    "link": "https://gitlab.com/automated-planning/tools/pansim",
+    "pdf": "/files/demos/icaps26-demo_paper_8.pdf"
   },
   {
     "title": "LiveSpec: A Tiered Runtime for Planning under Live-Editable Constraints",
     "authors": "Vedant Khandelwal, Prateek Biswas and Amit Sheth",
     "image": "/img/demos/9.png",
     "abstract": "Planning agents in logistics and manufacturing must respect constraints: safety zones, resource locks, and forbidden actions that change during execution, without retraining. We demonstrate LiveSpec, a tiered policy runtime that pairs a specification-conditioned MaskablePPO learned tier with a completeness-preserving A* search tier, both governed by a shared action-masking shield. Users edit typed constraints through a browser interface; the shield converts them into action masks consumed identically by both tiers within the same step. A spec-encoder projects the active constraint set into the policy's observation space, enabling the learned tier to generalize across configurations without retraining. When the learned tier stalls, a transparent switch activates the search tier. We evaluate across three domains (Warehouse, Blocks World, Sokoban) with nine curated presets covering unconstrained, rerouted, and intentionally infeasible constraint regimes. All six feasible presets are solved; three infeasible presets correctly exhaust their step budgets. Constraint edits take effect in under 1 ms (p95). The shared specification layer, shield, and tiered integration are domain-agnostic.",
-    "link": "https://tinyurl.com/icaps26-livespec"
+    "link": "https://tinyurl.com/icaps26-livespec",
+    "pdf": "/files/demos/icaps26-demo_paper_9.pdf"
   },
   {
     "title": "PocketSPAR: On-Device Visual Planning with Aligned Representations and Learned Heuristic Search",
     "authors": "Misagh Soltani and Forest Agostinelli",
     "image": "/img/demos/10.png",
     "abstract": "The deployment of automated planning algorithms that operate on pixel-based observations in real-world settings is often hindered by the challenge of visual distribution shift: when the observation at test time differs from the training distribution due to lighting. In this work, we demonstrate PocketSPAR, an iOS application that runs Stable Planning through Aligned Representations (SPAR) in Model-Based Reinforcement Learning on device locally and can find solutions to complex planning problems. SPAR can solve long-horizon planning problems in environments with noisy real-world observations while being trained entirely in simulation, by learning an alignment network that maps noisy observations to the clean discrete latent state.",
-    "link": "https://github.com/misaghsoltani/PocketSPAR_Demo/blob/main/submission_bundle/video/pocketspar_icaps26_demo.mp4"
+    "link": "https://github.com/misaghsoltani/PocketSPAR_Demo/blob/main/submission_bundle/video/pocketspar_icaps26_demo.mp4",
+    "pdf": "/files/demos/icaps26-demo_paper_10.pdf"
   },
   {
     "title": "A Discord-Based System for Human-in-the-Loop PDDL Modeling, Solving, and Validation through Natural Language",
     "authors": "Jawad Ahmed, Adam Neto, Marcus Tantakoun and Christian Muise",
     "image": "/img/demos/11.png",
     "abstract": "Traditional planning workflows often require prerequisite knowledge of PDDL modeling, along with the use of specialized validation and planning tools. This steep learning curve creates a significant barrier to entry for new users. To address this, we introduce the Interactive Planning Agent (IPA): an LLM-based planning system designed to make the generation of PDDL models accessible through free-form natural language conversations on Discord. As a straightforward, intuitive, and widely used communication app already embedded in users' daily lives, Discord allows us to effectively integrate the power of advanced planning tools directly into the modern workspace. Users simply converse with the system, which interprets their instructions to formulate PDDL domains and problems before feeding them directly into an external planner. This architecture seamlessly connects MCP-connected back-end services with a front-end Discord bot. Rather than shifting planning responsibilities to LLMs completely, the IPA relies on interactive model management and a system of structured external services such as l2p_mcp for human-in-the-loop planning.",
-    "link": "https://tinyurl.com/IPA-Discord-Bot-Video"
+    "link": "https://tinyurl.com/IPA-Discord-Bot-Video",
+    "pdf": "/files/demos/icaps26-demo_paper_11.pdf"
   },
   {
     "title": "LAPI(S)^2: Language to Action Planning via Iterative Schema Synthesis",
     "authors": "Emanuele Musumeci, Abdel Hakim Drid, Francesco Cassini, Vincenzo Suriani and Daniele Nardi",
     "image": "/img/demos/12.png",
     "abstract": "Translating natural language into executable plans is a provably complex problem. LLMs can generate syntactically valid PDDL, which is prone to contain semantic errors. Current state-of-the-art systems tend to bypass this issue, by relying on pre-defined ground-truth domains, or skipping structural validation altogether, trusting the LLM's own self-consistency. To bridge this gap, we introduce LAPI(S)^2. Our system uses symbolic and semantic checks to iteratively improve the generated symbolic domains, guaranteeing the successful execution of resulting plans in ground-truth scenarios. We tested LAPI(S)^2 on seven standard International Planning Competition (IPC) domains against baselines like LLM+P and NL2Plan. Zero-shot self-consistency improves by +29% over LLM+P. Most importantly, an average success rate of 73% is achieved for plans in real simulators, while the baselines failed completely with a 0% success rate.",
-    "link": "https://www.youtube.com/watch?v=rDj76jpD9g4"
+    "link": "https://www.youtube.com/watch?v=rDj76jpD9g4",
+    "pdf": "/files/demos/icaps26-demo_paper_12.pdf"
   },
   {
     "title": "MonkeyBot: A Planning System for Adhesion-Free Multi-Limb Robotic Climbing",
     "authors": "Evgeny Mishlyakov, Mikhail Gruntov, Alexander Shleyfman and Erez Karpas",
     "image": "/img/demos/13.png",
     "abstract": "We demonstrate MonkeyBot, an end-to-end planning system for adhesion-free multi-limbed robotic climbing. Unlike prior climbing robots that assume stable anchoring at arbitrary surface locations, MonkeyBot targets sparse, directionally constrained contact points and terrain gaps that require dynamic maneuvers such as ballistic jumps. The system reduces the continuous climbing task to a discrete AI planning problem via three tightly integrated components: a precomputation module that validates dynamic maneuvers and encodes them as symbolic Transition Links (TLs); a classical planner operating over the resulting FDR task; and a physics-based execution engine that translates high-level plans into robot motion. To keep planning tractable, we introduce three satisfiability-preserving pruning strategies that reduce the TL action set by up to 95%. Experiments across 12 benchmark instances show that pruning enables the planner to solve problems it could not otherwise handle within a 600-second timeout, with the most effective strategy alone yielding a near-threefold speedup.",
-    "link": "https://www.youtube.com/watch?v=exAnQH9lMtI"
+    "link": "https://www.youtube.com/watch?v=exAnQH9lMtI",
+    "pdf": "/files/demos/icaps26-demo_paper_13.pdf"
   }
 ]
