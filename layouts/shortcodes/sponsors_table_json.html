@@ -11,7 +11,7 @@
             <strong><h4> {{ print $level.rank }} </h4></strong>
             <div style="display: flex; flex-wrap: wrap; justify-content: center;">
                 {{ range $org := $level.list }}
-                <figure style="padding: 10px; flex: 0 1 auto; margin: 10px; display: flex; align-items: center;">
+                <figure style="padding: 10px; flex: 0 1 auto; margin: 10px; display: flex; flex-direction: column; align-items: center;">
                     <a href="{{ print $org.link }}" target="_blank">
                         {{ if gt $org.width 0 }}
                         <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ print $org.logo }}" width="{{ $org.width }}">
@@ -20,6 +20,11 @@
                         <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ print $org.logo }}" height="{{ $org.height }}">
                         {{ end }}
                     </a>
+                    {{ if $org.extra }}
+                    <figcaption style="margin-top: 8px">
+                        <a href="{{ print $org.extra }}" target="_blank">{{ print $org.extra }}</a>
+                    </figcaption>
+                    {{ end }}
                 </figure>
                 {{ end }}
             </div>
