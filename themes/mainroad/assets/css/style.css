@@ -1335,13 +1335,16 @@ textarea {
 		background-color: var(--icaps-2025-header-bg-color) !important;
 	}
 	nav.menu .menu__dropdown .submenu__list {
-		margin: -0.625rem -20px;
-		margin-top: 0.625rem;
+		margin: 0.625rem -20px;
 		max-width: 100vw !important;
 		padding-left: 0 !important;
 	}
 	nav.menu .menu__dropdown .submenu__list > li {
-		padding-left: 10px;
+		padding-left: 25px;
+	}
+	nav.menu .submenu__list .menu__link {
+		padding-top: 14px;
+		padding-bottom: 14px;
 	}
 	nav.menu > .menu__list .menu__text,
 	nav.menu > .menu__list .menu__link .drop-icon {
@@ -1363,9 +1366,12 @@ textarea {
 	}
 
 	nav.menu .menu__item:hover {
+		background: transparent !important;
+	}
+	nav.menu .menu__link:hover {
 		background: var(--icaps-2025-header-bg-color-active) !important;
 	}
-	nav.menu .menu__item:hover > label > span.menu__text {
+	nav.menu .menu__link:hover > span.menu__text {
 		color: var(--icaps-2025-header-accent-color) !important;
 	}
 
@@ -1374,7 +1380,7 @@ textarea {
 		opacity: 0.8;
 	}
 
-	nav.menu input:checked + .drop-icon {
+	nav.menu .menu__dropdown:has(> input:checked) > .menu__link .drop-icon {
 		transform: rotate(0deg);
 	}
 

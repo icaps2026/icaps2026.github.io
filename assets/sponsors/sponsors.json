@@ -18,7 +18,8 @@
 					"logo": "/img/partners/failte.png",
 					"height": "-1",
 					"width": "150",
-					"link": "https://www.failteireland.ie/"
+					"link": "https://www.failteireland.ie/",
+					"extra": "https://www.discoverireland.ie"
 				},
 				{
 					"logo": "/img/partners/eaton.jpg",

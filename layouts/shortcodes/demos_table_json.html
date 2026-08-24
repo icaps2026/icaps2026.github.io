@@ -5,7 +5,7 @@
 {{ range $demo := $data }}
 
 <div style="width: 100%; margin: 0; padding: 1%;">
-  <h4 style="color:black;"><strong>{{ $demo.title }}</strong></h4>
+  <h4 style="color:black;"><strong>{{ $demo.title }} (<a href="{{ $demo.pdf }}" target="_blank">pdf</a>)</strong></h4>
 
   {{ if $demo.image }}
   {{ if $demo.link }}
