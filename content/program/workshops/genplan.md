@@ -54,7 +54,7 @@ Two types of papers can be submitted:
 
 Submissions may use as many pages of appendices (after the references) as they wish, but the reviewers are not required to read the appendix. Submissions should use the ICAPS paper format. We also welcome submission in the the NeurIPS format. However, we will require camera-ready version of the paper in the ICAPS format.
 
-Now accepting submissions through OpenReview: [https://bit.ly/SubmitToGenPlan26](https://bit.ly/SubmitToGenPlan26).
+Submissions are now closed. The accepted papers are listed in the [schedule](#schedule).
 
 ## Important Dates
 - Paper Submission Deadline: ~~May 1, 2026~~ May 15, 2026 (11:59 PM AoE)
