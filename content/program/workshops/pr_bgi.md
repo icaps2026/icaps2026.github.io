@@ -54,6 +54,7 @@ June 28, 2026
 | 16:20–16:35 | IPC competition session                                                                                                                                                                       |
 | 16:35–16:47 | [**Concurrent Action Models for DEL**](https://drive.google.com/file/d/1mgUQ_Ys9zanNE1-3j_PbdYMPP_-FSGaS/view?usp=sharing)<br>Ludovico Deponte                                                                                                                                      |
 | 16:47–16:59 | [**RP-M*P: Towards Extending Epistemic Planning with Custom Modalities**](https://drive.google.com/file/d/1YwQ0FMXS_UIS68bRv4cVoh1qTKppGYPJ/view?usp=sharing)<br>Rebecca Leah De Venezia, Christian Muise                                                                      |
+| 16:59–17:11 | [**A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics**](https://drive.google.com/file/d/1xfxybKKMNYq8urcnuMRsz_3m2pF3i8Jl/view?usp=sharing)<br>Haniel Ulises Vasquez Morales                                                              |
 | 17:11–17:23 | [**Epistemic Ambiguity Is a Design Problem: Toward Complete Online Planning with Verified Actions**](https://drive.google.com/file/d/1EJgqpLeLUAbWOHQ_yn2ANgsa6CXSbBtn/view?usp=sharing)<br>Halim Djerroud                                                                          |
 | 17:23–17:35 | [**Synthesis Under Multi-Agent Environment Assumptions for Specifications in Linear Temporal Logic on Finite Traces**](https://drive.google.com/file/d/1KGsk2QSIAyi8lF3gDbNBXZ6KIbwQfjUS/view?usp=sharing)<br>Stella Condrò, Giuseppe De Giacomo, Gianmarco Parretti, Elisa Santini |
 | 17:35–17:47 | [**Synthesis Foundations for Online LTLf Goal Management**](https://drive.google.com/file/d/1V6X8S7Non6vo7oFNCVytHZPIXJgizM2H/view?usp=sharing)<br>Giuseppe De Giacomo, Yves Lesperance, Gianmarco Parretti, Fabio Patrizi                                                          |
@@ -150,6 +151,9 @@ Papers must be prepared according to the instructions for ICAPS 2026 (in AAAI fo
 
 - **[Synthesis Foundations for Online LTLf Goal Management](https://drive.google.com/file/d/1V6X8S7Non6vo7oFNCVytHZPIXJgizM2H/view?usp=sharing)**  
   Giuseppe De Giacomo, Yves Lesperance, Gianmarco Parretti, Fabio Patrizi
+
+- **[A LETHEIA: Adaptive Epistemic Planning over Kripke Models with DEL Product-Update Semantics](https://drive.google.com/file/d/1xfxybKKMNYq8urcnuMRsz_3m2pF3i8Jl/view?usp=sharing)**  
+  Haniel Ulises Vasquez Morales
 
 - **[Concurrent Action Models for DEL](https://drive.google.com/file/d/1mgUQ_Ys9zanNE1-3j_PbdYMPP_-FSGaS/view?usp=sharing)**  
   Ludovico Deponte
